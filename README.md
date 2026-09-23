@@ -4,7 +4,7 @@
 
 > A careful, source-aware workflow for improving academic drafts while protecting the writer’s authorship, meaning, and citations.
 
-![Responsible revision workflow](assets/responsible-revision-workflow.svg)
+![Responsible revision workflow](assets/responsible-revision-workflow.png)
 
 ## Why this exists
 
