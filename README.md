@@ -1,5 +1,7 @@
 # Plagiarism Audit & Rewrite Skill
 
+![Plagiarism Audit and Ethical Rewrite hero image](assets/plagiarism-audit-ethical-rewrite-hero.png)
+
 > A careful, source-aware workflow for improving academic drafts while protecting the writer’s authorship, meaning, and citations.
 
 ![Responsible revision workflow](assets/responsible-revision-workflow.svg)
