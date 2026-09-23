@@ -32,8 +32,8 @@ The screenshots below are user-provided illustrations of one individual case: a 
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/illustrative-before-42-percent.png" alt="User-provided screenshot showing a 42 percent similarity indicator" /></td>
-    <td width="50%"><img src="assets/illustrative-after-3-percent.png" alt="User-provided screenshot showing a 3 percent similarity indicator" /></td>
+    <td width="50%"><img src="assets/illustrative-before-42-percent.png" alt="User-provided screenshot showing a 42 percent similarity indicator" width="390" /></td>
+    <td width="50%"><img src="assets/illustrative-after-3-percent.png" alt="User-provided screenshot showing a 3 percent similarity indicator" width="390" /></td>
   </tr>
   <tr>
     <td align="center"><em>User-provided illustration: before</em></td>
