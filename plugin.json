@@ -1,0 +1,24 @@
+{
+  "name": "plagiarism-audit-rewrite-skill",
+  "version": "1.0.0",
+  "description": "Ethical academic originality review, synthesis, and citation-audit skill.",
+  "author": {
+    "name": "Academic Integrity Tools"
+  },
+  "license": "MIT",
+  "keywords": ["academic-integrity", "originality", "citation", "paraphrasing", "research-writing"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Academic Originality Audit",
+    "shortDescription": "Review writing for ethical originality and citation quality.",
+    "longDescription": "Helps writers identify attribution gaps and revise through genuine synthesis while preserving evidence and academic integrity.",
+    "developerName": "Academic Integrity Tools",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": [
+      "Audit this draft for citation and attribution gaps.",
+      "Help me synthesize these sources into an original paragraph.",
+      "Create an originality revision plan for this section."
+    ]
+  }
+}
